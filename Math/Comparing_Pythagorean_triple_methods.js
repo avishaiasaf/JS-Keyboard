@@ -44,3 +44,8 @@ function compareMethods(n){
 }
 
 compareMethods(1000);
+
+//function a solution: 31875000
+//number of iterations: 99676
+//function b solution: 31875000
+//number of iterations: 2001
