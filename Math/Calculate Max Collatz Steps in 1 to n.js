@@ -32,7 +32,7 @@ function runCollatzCalculation(n){
     console.log('Max Complexity in range: ' + max_complex);
 }
 
-//runCollatzCalculation(1000);
+//runCollatzCalculation(1000000);
 
 //Max Steps in range: 524 for n= 837,799
 //Max Complexity in range: 287
